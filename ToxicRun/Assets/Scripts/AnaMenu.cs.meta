@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 007f26b41d3df9a46ace1cd3793c5c3a
+timeCreated: 1555711948
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kameraKontrol: {instanceID: 0}
+  - kameraAnimation: {instanceID: 0}
+  - playerScript: {instanceID: 0}
+  - playerAnimation: {instanceID: 0}
+  - skorScript: {instanceID: 0}
+  - creditsText: {instanceID: 0}
+  - butonClickSesi: {instanceID: 0}
+  - bgmusic: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

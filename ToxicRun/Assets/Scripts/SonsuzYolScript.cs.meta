@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 95ec68e6332396747aaebfc11167dd8b
+timeCreated: 1555438701
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - puanPrefab: {instanceID: 0}
+  - sagaDonus: {instanceID: 0}
+  - solaDonus: {instanceID: 0}
+  - ikiYoneDonus: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
